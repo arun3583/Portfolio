@@ -29,7 +29,7 @@
     'host' => 'smtp.gmail.com',
     'username' => 'arunaswin3583@gmail.com',
     'password' => 'ugqpxbjohydxvxbw',
-    'port' => '567'
+    'port' => '465'
   );
   
 
